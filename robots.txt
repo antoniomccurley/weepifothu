@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chahfuegij.gazman-sdk.com/sitemap.xml
